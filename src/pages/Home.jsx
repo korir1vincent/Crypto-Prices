@@ -63,7 +63,7 @@ export const Home = () => {
         <div className="header-content">
           <div className="logo-section">
             <h1>🚀 Crypto Tracker</h1>
-            <p>Real-time cryptocurrency prices and market data</p>
+            <p>A simple and fast platform to monitor live cryptocurrency prices, market movements, and trends across multiple digital assets.</p>
           </div>
           <div className="search-section">
             <input
